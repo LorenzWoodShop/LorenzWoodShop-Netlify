@@ -2,7 +2,6 @@
 title: I'm working on a new site!
 date: 2021-02-15T19:06:08.169Z
 published: true
-tags: []
 description: With the unbelievable downtime I had on our the host, I've decided
   to start over again.
 ---

@@ -10,7 +10,7 @@
 		</p>
 
 		<p class="author__links">
-			<a href="https://twitter.com/LorenzWood">Follow on Twitter</a>
+			<a href="https://twitter.com/LorenzWoodShop">Follow on Twitter</a>
 		</p>
 
 	</div>
